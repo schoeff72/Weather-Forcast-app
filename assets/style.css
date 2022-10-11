@@ -17,3 +17,21 @@ header {
     color: #fff;
     font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
+
+section nav ul li{
+    display:column ;
+    margin-left: 25px;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+ }
+h1 {
+    padding-left: 55%;
+}
+
+ h2 {
+    padding-left: 10px;
+ }
+
+ .card {
+    padding-left: 10px;
+ }
