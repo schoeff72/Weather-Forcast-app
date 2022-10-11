@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(237, 241, 246);
+}
+
+header {
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: #15016f;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
